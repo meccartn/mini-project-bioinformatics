@@ -36,6 +36,3 @@ Future projects focused on data analysis, automating laboratory data processing,
 ### 🔴 LEVEL 3: Advanced Projects
 Future complex workflows integrating bioinformatics algorithms, structural biology toolkits, or advanced computation.
 *   *Status: Planned 🎯*
-2. Ensure Python 3.x is installed on your machine, then execute the following command in your terminal:
-   ```bash
-   python main.py
